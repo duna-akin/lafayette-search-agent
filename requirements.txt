@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langgraph
+langchain-openai
+streamlit
+ddgs
+typing-extensions
+python-dotenv
+requests
