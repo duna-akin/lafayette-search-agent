@@ -3,7 +3,8 @@ langchain-community
 langgraph
 langchain-openai
 streamlit
-ddgs
 typing-extensions
 python-dotenv
 requests
+beautifulsoup4
+urllib3
